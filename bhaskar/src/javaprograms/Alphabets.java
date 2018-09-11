@@ -20,5 +20,7 @@ public class Alphabets {
          }
 
 	}
+	System.out.println("Uppercase Alphabets are ");
+    
 
 }
