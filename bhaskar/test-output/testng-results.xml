@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-09-01T10:10:31Z" name="Default suite" finished-at="2018-09-01T10:10:31Z" duration-ms="375">
+    <groups>
+    </groups>
+    <test started-at="2018-09-01T10:10:31Z" name="Default test" finished-at="2018-09-01T10:10:31Z" duration-ms="375">
+      <class name="bh2testng.Log4j">
+        <test-method signature="logs()[pri:0, instance:bh2testng.Log4j@3e84448c]" started-at="2018-09-01T10:10:31Z" name="logs" finished-at="2018-09-01T10:10:31Z" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logs -->
+      </class> <!-- bh2testng.Log4j -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

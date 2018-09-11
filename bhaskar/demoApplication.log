@@ -1,0 +1,48 @@
+2018-09-01 13:16:49 INFO  Log4j:11 - -----------------New Testcvase----------------------
+2018-09-01 13:16:49 TRACE Log4j:12 - It is trace message
+2018-09-01 13:16:49 DEBUG Log4j:13 - Application is opened
+2018-09-01 13:16:49 INFO  Log4j:14 - Page is opened
+2018-09-01 13:16:49 WARN  Log4j:15 - It is warning message
+2018-09-01 13:16:49 ERROR Log4j:16 - It is error message
+2018-09-01 13:16:49 FATAL Log4j:17 - Fatal Message
+2018-09-01 13:17:35 INFO  Log4j:11 - -----------------New Testcvase----------------------
+2018-09-01 13:17:35 TRACE Log4j:12 - It is trace message
+2018-09-01 13:17:35 DEBUG Log4j:13 - Application is opened
+2018-09-01 13:17:35 INFO  Log4j:14 - Page is opened
+2018-09-01 13:17:35 WARN  Log4j:15 - It is warning message
+2018-09-01 13:17:35 ERROR Log4j:16 - It is error message
+2018-09-01 13:17:35 FATAL Log4j:17 - Fatal Message
+2018-09-01 13:54:04 INFO  Log4j:11 - -----------------New Testcvase----------------------
+2018-09-01 13:54:04 TRACE Log4j:12 - It is trace message
+2018-09-01 13:54:04 DEBUG Log4j:13 - Application is opened
+2018-09-01 13:54:04 INFO  Log4j:14 - Page is opened
+2018-09-01 13:54:04 WARN  Log4j:15 - It is warning message
+2018-09-01 13:54:04 ERROR Log4j:16 - It is error message
+2018-09-01 13:54:04 FATAL Log4j:17 - Fatal Message
+2018-09-01 14:05:53 INFO  Log4j1Ex:16 - -----------------New Testcvase----------------------
+2018-09-01 14:05:53 TRACE Log4j1Ex:17 - It is trace message
+2018-09-01 14:05:53 DEBUG Log4j1Ex:18 - Application is opened
+2018-09-01 14:05:53 INFO  Log4j1Ex:19 - Page is opened
+2018-09-01 14:05:53 WARN  Log4j1Ex:20 - It is warning message
+2018-09-01 14:05:53 ERROR Log4j1Ex:21 - It is error message
+2018-09-01 14:05:53 FATAL Log4j1Ex:22 - Fatal Message
+2018-09-01 14:06:19 INFO  Log4j1Ex:16 - -----------------New Testcvase----------------------
+2018-09-01 14:06:19 TRACE Log4j1Ex:17 - It is trace message
+2018-09-01 14:06:19 DEBUG Log4j1Ex:18 - Application is opened
+2018-09-01 14:06:19 INFO  Log4j1Ex:19 - Page is opened
+2018-09-01 14:06:19 WARN  Log4j1Ex:20 - It is warning message
+2018-09-01 14:06:19 ERROR Log4j1Ex:21 - It is error message
+2018-09-01 14:06:19 FATAL Log4j1Ex:22 - Fatal Message
+2018-09-01 15:38:50 ERROR Log4j:18 - It is error message
+2018-09-01 15:38:50 FATAL Log4j:19 - Fatal Message
+2018-09-01 15:39:11 ERROR Log4j:18 - It is error message
+2018-09-01 15:39:11 FATAL Log4j:19 - Fatal Message
+2018-09-01 15:39:36 ERROR Log4j:18 - It is error message
+2018-09-01 15:39:36 FATAL Log4j:19 - Fatal Message
+2018-09-01 15:40:31 INFO  Log4j:13 - -----------------New Testcvase----------------------
+2018-09-01 15:40:31 TRACE Log4j:14 - It is trace message
+2018-09-01 15:40:31 DEBUG Log4j:15 - Application is opened
+2018-09-01 15:40:31 INFO  Log4j:16 - Page is opened
+2018-09-01 15:40:31 WARN  Log4j:17 - It is warning message
+2018-09-01 15:40:31 ERROR Log4j:18 - It is error message
+2018-09-01 15:40:31 FATAL Log4j:19 - Fatal Message
